@@ -43,8 +43,7 @@ jobs:
             --platform linux/amd64 \
             --load \
             -t ${{ secrets.DOCKER_USERNAME }}/nodejs-cicd-devops:latest \
-            --file Dockerfile \
-            .
+            --file Dockerfile .
 
       - name: Push Docker image
         run: docker push ${{ secrets.DOCKER_USERNAME }}/nodejs-cicd-devops:latest
