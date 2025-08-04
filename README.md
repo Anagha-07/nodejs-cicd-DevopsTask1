@@ -14,7 +14,7 @@ This project showcases a fully automated **CI/CD pipeline** for a Node.js Expres
 - Builds a Docker image
 - Pushes it to Docker Hub
 
-This setup reflects practical DevOps skills and demonstrates real-world deployment automation.
+This task reflects an understanding of DevOps fundamentals and demonstrates how automation can be applied in real-world development workflows.
 
 ---
 
@@ -107,9 +107,5 @@ nodejs-cicd-DevopsTask1/
 * [x] Docker image built and pushed on code push
 * [x] Web app accessible on `localhost:3000`
 * [x] README with clear documentation and screenshot 
-
----
-
-This repository demonstrates my ability to apply DevOps principles in a practical setting—handling automation, containerization, and secure deployment pipelines. I'm excited to contribute these skills to your team!
 
 ---
