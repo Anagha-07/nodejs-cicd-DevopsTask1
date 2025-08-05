@@ -75,6 +75,7 @@ nodejs-cicd-DevopsTask1/
 ---
 
 ![http://localhost:3000/ Screenshot](./screenshot.png)
+![Github Action Screenshot](./shot.png)
 
 ---
 
@@ -82,7 +83,7 @@ nodejs-cicd-DevopsTask1/
 
 * **DOCKER\_USERNAME** → Your Docker Hub username
 * **DOCKER\_PASSWORD** → Your Docker Hub personal access token
-  Stored securely under GitHub repo → Settings → Secrets → Actions.
+  Stored securely under GitHub repo → Settings → Secrets and variables → Actions.
 
 ---
 
@@ -96,7 +97,7 @@ nodejs-cicd-DevopsTask1/
 
 ---
 
-## 📚 Internship Task Checklist
+## 📚 Task Checklist
 
 * [x] GitHub Actions workflow configured
 * [x] Dockerfile and .dockerignore added
