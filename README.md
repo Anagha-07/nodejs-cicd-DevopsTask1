@@ -1,8 +1,5 @@
 # 🚀 Node.js CI/CD Pipeline
 
-**Repository:** [anagha7/nodejs-cicd-devops](https://github.com/anagha7/nodejs-cicd-devops)  
-**Author:** Anagha P Ajit
-
 ---
 
 ## 📌 Overview
