@@ -74,11 +74,18 @@ nodejs-cicd-DevopsTask1/
 ```
 ---
 
-![http://localhost:3000/ Screenshot](./screenshot.png)
-![Github Action Screenshot](./shot.png)
+## 📷 Visual Walkthrough
+
+#### 🔄 GitHub Actions: Automated CI/CD pipeline triggered on code push
+![GitHub Actions Screenshot](./shot.png)
+
+#### 📦 Docker Image: Automatically built & pushed to Docker Hub via GitHub Actions
+![Docker Hub Screenshot](./Docker.png)
+
+#### 🟢 App running on `localhost:3000` after pulling Docker image
+![App Screenshot](./screenshot.png)
 
 ---
-
 ## 🔒 Secrets Configuration (CI/CD Security)
 
 * **DOCKER\_USERNAME** → Your Docker Hub username
